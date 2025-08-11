@@ -137,15 +137,15 @@ This dual approach enables evaluation of:
 ## Evaluation Results
 
 ### OpenAI Models Head-to-Head Comparison
-📊 **[OpenAI STT Models Evaluation Results](evaluations/openai-model-comparison.md)**
+**[OpenAI STT Models Evaluation Results](evaluations/openai-model-comparison.md)**
 
-We conducted a comprehensive evaluation of OpenAI's three transcription models on all 16 English voice note samples:
+I conducted a comprehensive evaluation of OpenAI's three transcription models on all 16 English voice note samples:
 
-- **🏆 Winner: Whisper-1** - 92.8% average accuracy, most reliable
-- **GPT-4o Audio Preview** - 65.1% average accuracy, inconsistent with catastrophic failures
+- **Whisper-1** - 92.8% average accuracy, most consistent performance
+- **GPT-4o Audio Preview** - 65.1% average accuracy, inconsistent with transcription failures
 - **GPT-4o Mini Audio** - 51.2% average accuracy, multiple failures
 
-**Key Finding:** Despite being the "legacy" model, Whisper-1 significantly outperformed the newer GPT-4o audio models for voice note transcription.
+**Key Finding:** Whisper-1 demonstrated superior performance compared to the newer GPT-4o audio models for voice note transcription, particularly at fast speaking rates.
 
 ## Usage & Evaluation
 
