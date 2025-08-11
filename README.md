@@ -114,16 +114,6 @@ This dual approach enables evaluation of:
 3. **Service sensitivity** - Which STT services are most affected by audio quality
 4. **Cost-benefit analysis** - Whether audio preprocessing investment is worthwhile
 
-## Evaluation Approach
-
-**Sample Size**: 16 English + 3 multilingual samples provides a solid baseline for initial STT comparison. This is sufficient for:
-- Identifying major accuracy differences between STT services
-- Understanding how different services handle technical vocabulary
-- Testing multilingual capabilities and transliteration handling
-- Evaluating pause/silence handling and hallucination tendencies
-- Establishing baseline metrics for future expansion
-
-**Expansion Strategy**: If initial results show significant variance or you need more statistical confidence, the dataset can be expanded to 20-50 samples per category.
 
 ## Usage
 
@@ -131,22 +121,6 @@ This dual approach enables evaluation of:
 2. Process the same audio through different STT APIs
 3. Compare results using word error rate (WER) and other metrics
 4. Store API results in `results/` directory
-
-## STT Services to Test
-
-Recommended services for comparison:
-- OpenAI Whisper (various model sizes)
-- Deepgram
-- Google Speech-to-Text
-- Azure Speech Services
-- AssemblyAI
-
-## Privacy & Data Protection
-
-All personal information has been redacted for PII protection using automated substitution:
-- Personal names have been anonymized (e.g., real names → Dov, Sarah)
-- Content represents realistic scenarios without exposing private information
-- Safe for public sharing and research use
 
 ## Usage & Evaluation
 
