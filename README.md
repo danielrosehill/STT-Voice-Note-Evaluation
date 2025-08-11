@@ -1,3 +1,15 @@
+---
+license: apache-2.0
+task_categories:
+- text-generation
+language:
+- en
+- he
+pretty_name: Voice Note Speech To Text (STT) Evaluation Dataset
+size_categories:
+- n<1K
+---
+
 # STT Voice Note Evaluation
 
 **Author:** Daniel Rosehill  
