@@ -1,0 +1,98 @@
+[
+  {
+    "id": "01_email_dictation",
+    "raw_audio": "../audio/raw/english/01_email_dictation.wav",
+    "denoised_audio": "../audio/denoised/english/01_email_dictation.wav",
+    "ground_truth": "../texts/01_email_dictation.txt"
+  },
+  {
+    "id": "02_project_planning",
+    "raw_audio": "../audio/raw/english/02_project_planning.wav",
+    "denoised_audio": "../audio/denoised/english/02_project_planning.wav",
+    "ground_truth": "../texts/02_project_planning.txt"
+  },
+  {
+    "id": "03_todo_list",
+    "raw_audio": "../audio/raw/english/03_todo_list.wav",
+    "denoised_audio": "../audio/denoised/english/03_todo_list.wav",
+    "ground_truth": "../texts/03_todo_list.txt"
+  },
+  {
+    "id": "04_meeting_notes",
+    "raw_audio": "../audio/raw/english/04_meeting_notes.wav",
+    "denoised_audio": "../audio/denoised/english/04_meeting_notes.wav",
+    "ground_truth": "../texts/04_meeting_notes.txt"
+  },
+  {
+    "id": "05_parenting_question",
+    "raw_audio": "../audio/raw/english/05_parenting_question.wav",
+    "denoised_audio": "../audio/denoised/english/05_parenting_question.wav",
+    "ground_truth": "../texts/05_parenting_question.txt"
+  },
+  {
+    "id": "06_technical_troubleshooting",
+    "raw_audio": "../audio/raw/english/06_technical_troubleshooting.wav",
+    "denoised_audio": "../audio/denoised/english/06_technical_troubleshooting.wav",
+    "ground_truth": "../texts/06_technical_troubleshooting.txt"
+  },
+  {
+    "id": "07_blog_outline",
+    "raw_audio": "../audio/raw/english/07_blog_outline.wav",
+    "denoised_audio": "../audio/denoised/english/07_blog_outline.wav",
+    "ground_truth": "../texts/07_blog_outline.txt"
+  },
+  {
+    "id": "08_calendar_scheduling",
+    "raw_audio": "../audio/raw/english/08_calendar_scheduling.wav",
+    "denoised_audio": "../audio/denoised/english/08_calendar_scheduling.wav",
+    "ground_truth": "../texts/08_calendar_scheduling.txt"
+  },
+  {
+    "id": "09_research_note",
+    "raw_audio": "../audio/raw/english/09_research_note.wav",
+    "denoised_audio": "../audio/denoised/english/09_research_note.wav",
+    "ground_truth": "../texts/09_research_note.txt"
+  },
+  {
+    "id": "10_project_update",
+    "raw_audio": "../audio/raw/english/10_project_update.wav",
+    "denoised_audio": "../audio/denoised/english/10_project_update.wav",
+    "ground_truth": "../texts/10_project_update.txt"
+  },
+  {
+    "id": "11_ai_prompt_creation",
+    "raw_audio": "../audio/raw/english/11_ai_prompt_creation.wav",
+    "denoised_audio": "../audio/denoised/english/11_ai_prompt_creation.wav",
+    "ground_truth": "../texts/11_ai_prompt_creation.txt"
+  },
+  {
+    "id": "12_agent_instructions",
+    "raw_audio": "../audio/raw/english/12_agent_instructions.wav",
+    "denoised_audio": "../audio/denoised/english/12_agent_instructions.wav",
+    "ground_truth": "../texts/12_agent_instructions.txt"
+  },
+  {
+    "id": "13_pharmacy_pickup",
+    "raw_audio": "../audio/raw/english/13_pharmacy_pickup.wav",
+    "denoised_audio": "../audio/denoised/english/13_pharmacy_pickup.wav",
+    "ground_truth": "../texts/13_pharmacy_pickup.txt"
+  },
+  {
+    "id": "14_household_chores",
+    "raw_audio": "../audio/raw/english/14_household_chores.wav",
+    "denoised_audio": "../audio/denoised/english/14_household_chores.wav",
+    "ground_truth": "../texts/14_household_chores.txt"
+  },
+  {
+    "id": "15_grocery_shopping",
+    "raw_audio": "../audio/raw/english/15_grocery_shopping.wav",
+    "denoised_audio": "../audio/denoised/english/15_grocery_shopping.wav",
+    "ground_truth": "../texts/15_grocery_shopping.txt"
+  },
+  {
+    "id": "16_general_ai_prompt",
+    "raw_audio": "../audio/raw/english/16_general_ai_prompt.wav",
+    "denoised_audio": "../audio/denoised/english/16_general_ai_prompt.wav",
+    "ground_truth": "../texts/16_general_ai_prompt.txt"
+  }
+]

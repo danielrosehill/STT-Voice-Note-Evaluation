@@ -1,0 +1,17 @@
+[
+  {
+    "id": "01_teudat_zehut_pickup",
+    "audio_file": "../audio/denoised/multilingual/01_teudat_zehut_pickup.wav",
+    "ground_truth": "../multilingual/01_teudat_zehut_pickup.txt"
+  },
+  {
+    "id": "02_shabbat_preparations",
+    "audio_file": "../audio/denoised/multilingual/02_shabbat_preparations.wav",
+    "ground_truth": "../multilingual/02_shabbat_preparations.txt"
+  },
+  {
+    "id": "03_shopping_list",
+    "audio_file": "../audio/denoised/multilingual/03_shopping_list.wav",
+    "ground_truth": "../multilingual/03_shopping_list.txt"
+  }
+]
