@@ -1,0 +1,7 @@
+So, I just finished a call with the team about the new AI automation project. Let me capture the key points while they're still fresh. Sarah brought up a good point about the cost implications of using GPT-4 for everything. She's right; we're burning through API credits pretty quickly. Mike suggested we look into fine-tuning a smaller model, maybe LLaMA 2 or something open-source that we can run locally. The challenge is we need to set up the infrastructure for that, probably some GPU instances on AWS or maybe just beef up our current server. Jennifer from Product was asking about timelines. I told her we could probably have a proof of concept ready in two weeks if we stick with the API approach, but if we go with the self-hosted route, it might take a month or more. We also talked about the Docker setup; the current images are getting pretty bloated, like 3GB each, which is slowing down deployment. I think we need to do some cleanup, maybe use multi-stage builds or switch to Alpine-based images. 
+
+Action items:
+- I'm going to research the cost of different approaches and put together a comparison.
+- Sarah will look into the infrastructure requirements for self-hosting.
+- Mike will start experimenting with model fine-tuning.
+- We'll reconvene next Friday to make a decision.

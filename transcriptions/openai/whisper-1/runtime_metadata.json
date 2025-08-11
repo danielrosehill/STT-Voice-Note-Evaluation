@@ -1,0 +1,136 @@
+{
+  "model": "whisper-1",
+  "vendor": "openai",
+  "transcriptions": {
+    "01_email_dictation_raw": {
+      "sample_id": "01_email_dictation",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/01_email_dictation.txt",
+      "processing_time_seconds": 9.856075525283813,
+      "word_count": 170,
+      "transcribed_at": "2025-08-11T15:43:50.361940"
+    },
+    "02_project_planning_raw": {
+      "sample_id": "02_project_planning",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/02_project_planning.txt",
+      "processing_time_seconds": 17.98682141304016,
+      "word_count": 222,
+      "transcribed_at": "2025-08-11T15:44:34.241015"
+    },
+    "03_todo_list_raw": {
+      "sample_id": "03_todo_list",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/03_todo_list.txt",
+      "processing_time_seconds": 11.922566652297974,
+      "word_count": 209,
+      "transcribed_at": "2025-08-11T15:45:31.765855"
+    },
+    "04_meeting_notes_raw": {
+      "sample_id": "04_meeting_notes",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/04_meeting_notes.txt",
+      "processing_time_seconds": 13.69161343574524,
+      "word_count": 220,
+      "transcribed_at": "2025-08-11T15:46:16.895601"
+    },
+    "05_parenting_question_raw": {
+      "sample_id": "05_parenting_question",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/05_parenting_question.txt",
+      "processing_time_seconds": 12.495090246200562,
+      "word_count": 188,
+      "transcribed_at": "2025-08-11T15:47:02.585057"
+    },
+    "06_technical_troubleshooting_raw": {
+      "sample_id": "06_technical_troubleshooting",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/06_technical_troubleshooting.txt",
+      "processing_time_seconds": 12.286279439926147,
+      "word_count": 194,
+      "transcribed_at": "2025-08-11T15:47:44.644427"
+    },
+    "07_blog_outline_raw": {
+      "sample_id": "07_blog_outline",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/07_blog_outline.txt",
+      "processing_time_seconds": 12.5526282787323,
+      "word_count": 222,
+      "transcribed_at": "2025-08-11T15:48:28.148545"
+    },
+    "08_calendar_scheduling_raw": {
+      "sample_id": "08_calendar_scheduling",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/08_calendar_scheduling.txt",
+      "processing_time_seconds": 14.517012119293213,
+      "word_count": 193,
+      "transcribed_at": "2025-08-11T15:49:18.089647"
+    },
+    "09_research_note_raw": {
+      "sample_id": "09_research_note",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/09_research_note.txt",
+      "processing_time_seconds": 13.191164016723633,
+      "word_count": 183,
+      "transcribed_at": "2025-08-11T15:50:06.425729"
+    },
+    "10_project_update_raw": {
+      "sample_id": "10_project_update",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/10_project_update.txt",
+      "processing_time_seconds": 13.06718111038208,
+      "word_count": 210,
+      "transcribed_at": "2025-08-11T15:50:49.793179"
+    },
+    "11_ai_prompt_creation_raw": {
+      "sample_id": "11_ai_prompt_creation",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/11_ai_prompt_creation.txt",
+      "processing_time_seconds": 13.467283725738525,
+      "word_count": 176,
+      "transcribed_at": "2025-08-11T15:51:37.452754"
+    },
+    "12_agent_instructions_raw": {
+      "sample_id": "12_agent_instructions",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/12_agent_instructions.txt",
+      "processing_time_seconds": 9.604739665985107,
+      "word_count": 104,
+      "transcribed_at": "2025-08-11T15:52:39.559960"
+    },
+    "13_pharmacy_pickup_raw": {
+      "sample_id": "13_pharmacy_pickup",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/13_pharmacy_pickup.txt",
+      "processing_time_seconds": 11.771215200424194,
+      "word_count": 186,
+      "transcribed_at": "2025-08-11T15:53:21.439495"
+    },
+    "14_household_chores_raw": {
+      "sample_id": "14_household_chores",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/14_household_chores.txt",
+      "processing_time_seconds": 13.25465703010559,
+      "word_count": 200,
+      "transcribed_at": "2025-08-11T15:54:06.315931"
+    },
+    "15_grocery_shopping_raw": {
+      "sample_id": "15_grocery_shopping",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/15_grocery_shopping.txt",
+      "processing_time_seconds": 12.596641302108765,
+      "word_count": 209,
+      "transcribed_at": "2025-08-11T15:54:49.363721"
+    },
+    "16_general_ai_prompt_raw": {
+      "sample_id": "16_general_ai_prompt",
+      "audio_type": "raw",
+      "transcription_file": "openai/whisper-1/raw/16_general_ai_prompt.txt",
+      "processing_time_seconds": 10.228760004043579,
+      "word_count": 173,
+      "transcribed_at": "2025-08-11T15:55:32.595423"
+    }
+  },
+  "created_at": "2025-08-11T15:43:50.361870",
+  "last_updated": "2025-08-11T15:55:32.595444"
+}

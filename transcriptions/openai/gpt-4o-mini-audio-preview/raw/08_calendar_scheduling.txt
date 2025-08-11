@@ -1,0 +1,11 @@
+I need to schedule several appointments for next week. Let me go through these one by one:
+
+1. Schedule Dove's pediatrician appointment for Tuesday, November 14th at 10:30 AM at the Maccabi Clinic on Herzl Street. Duration should be about 45 minutes for the one-month checkup. Make sure to add a reminder 30 minutes before to prepare my questions list.
+
+2. I need to book a dentist appointment for myself. I've been putting this off for months. Schedule it for Wednesday, November 15th at 2 PM at Dr. Cohen's office at Ben Yehuda Street. Should take about an hour for a regular cleaning.
+
+3. Schedule a video call with the client about the automation project for Thursday, November 16th at 11 AM. Block out 90 minutes for this since we'll probably need to go through technical details. Add the Zoom link to the calendar entry.
+
+4. Sarah needs her postpartum checkup scheduled for Friday, November 17th at 9 AM at the Women's Health Clinic. That's usually a 30-minute appointment.
+
+5. Finally, schedule a grocery pickup for Sunday, November 19th at 4 PM at the Shufersal on Emek Refaim. Should take about 15 minutes to collect the order.

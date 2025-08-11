@@ -1,0 +1,11 @@
+So I want to write a blog post about setting up voice notes workflows for new parents. The idea came to me because I've been using this system to ask AI questions about parenting stuff when I'm holding the baby and can't type. It's been super useful. The outline would be something like: 
+
+First section is about why voice notes are perfect for parents—you know, hands are often busy, you're sleep-deprived so typing is harder, but you still have questions or ideas you want to capture. 
+
+Second section would be about the technical setup. I'd walk through how I set up the voice notes app to send webhooks to n8n, then how n8n processes the transcripts and sends it to an AI agent with a custom system prompt for parenting advice. Maybe include some screenshots of the workflow. 
+
+Third section could be about the AI prompting strategy—how I crafted the system prompt to give helpful, evidence-based parenting advice while being clear about when to consult a pediatrician. 
+
+Fourth section would be practical examples, like the questions I've actually asked and the responses I got. Maybe anonymize some of the more personal stuff. 
+
+And then a conclusion about how this has changed my approach to getting information as a new parent. I think this could be really helpful for other tech-savvy parents.

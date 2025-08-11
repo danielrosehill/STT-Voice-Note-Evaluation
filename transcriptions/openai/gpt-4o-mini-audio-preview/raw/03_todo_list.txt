@@ -1,0 +1,11 @@
+Okay, so things I need to get done today: 
+
+First thing is I need to check on that GitHub Actions workflow that's been failing. It's something with the Docker build, I think. The base image has changed or something. Should be a quick fix, but I keep forgetting to look at it. 
+
+Second thing, I promised Sarah I'd set up that home automation thing for the lights in the nursery. It's just a simple Zigbee bulb, but I need to pair it with Home Assistant and create home automations. Shouldn't take long, but you know how these things go—always some weird edge case. 
+
+Oh, and I need to follow up on that email from the pediatrician's office about Dove's appointment next week. They want to reschedule or something. I should probably call them instead of playing email tag. 
+
+Let me see, what else? I want to experiment with that new Whisper model that OpenAI released. Apparently, it's much faster for real-time transcription, which could be useful for my voice notes workflow. 
+
+And I should really update my blog. I haven't posted anything in like two weeks. Maybe I'll write something about the challenges of working from home with a newborn. People seem to relate to that kind of content.

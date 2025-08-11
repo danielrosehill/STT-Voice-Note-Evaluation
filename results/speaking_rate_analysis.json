@@ -1,0 +1,511 @@
+{
+  "samples": [
+    {
+      "sample_id": "01_email_dictation",
+      "duration_seconds": 46.0,
+      "word_count": 168,
+      "speaking_rate_wpm": 219.1304347826087,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 95.83333333333334,
+        "gpt-4o-audio-preview": 86.90476190476191,
+        "gpt-4o-mini-audio-preview": 80.95238095238095
+      }
+    },
+    {
+      "sample_id": "02_project_planning",
+      "duration_seconds": 93.4,
+      "word_count": 220,
+      "speaking_rate_wpm": 141.32762312633832,
+      "rate_category": "normal",
+      "model_accuracies": {
+        "whisper-1": 81.36363636363636,
+        "gpt-4o-audio-preview": 95.0,
+        "gpt-4o-mini-audio-preview": 88.18181818181819
+      }
+    },
+    {
+      "sample_id": "03_todo_list",
+      "duration_seconds": 58.1,
+      "word_count": 209,
+      "speaking_rate_wpm": 215.83476764199654,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 93.77990430622009,
+        "gpt-4o-audio-preview": 95.21531100478468,
+        "gpt-4o-mini-audio-preview": 93.30143540669856
+      }
+    },
+    {
+      "sample_id": "04_meeting_notes",
+      "duration_seconds": 62.9,
+      "word_count": 220,
+      "speaking_rate_wpm": 209.8569157392687,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 93.18181818181819,
+        "gpt-4o-audio-preview": 94.54545454545455,
+        "gpt-4o-mini-audio-preview": 91.36363636363636
+      }
+    },
+    {
+      "sample_id": "05_parenting_question",
+      "duration_seconds": 56.5,
+      "word_count": 187,
+      "speaking_rate_wpm": 198.58407079646017,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 93.58288770053476,
+        "gpt-4o-audio-preview": 96.2566844919786,
+        "gpt-4o-mini-audio-preview": -66.84491978609626
+      }
+    },
+    {
+      "sample_id": "06_technical_troubleshooting",
+      "duration_seconds": 54.1,
+      "word_count": 194,
+      "speaking_rate_wpm": 215.15711645101663,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 96.3917525773196,
+        "gpt-4o-audio-preview": 97.9381443298969,
+        "gpt-4o-mini-audio-preview": 94.84536082474226
+      }
+    },
+    {
+      "sample_id": "07_blog_outline",
+      "duration_seconds": 67.7,
+      "word_count": 223,
+      "speaking_rate_wpm": 197.63663220088625,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 94.61883408071749,
+        "gpt-4o-audio-preview": 95.06726457399103,
+        "gpt-4o-mini-audio-preview": 91.03139013452915
+      }
+    },
+    {
+      "sample_id": "08_calendar_scheduling",
+      "duration_seconds": 66.7,
+      "word_count": 197,
+      "speaking_rate_wpm": 177.21139430284856,
+      "rate_category": "fast",
+      "model_accuracies": {
+        "whisper-1": 85.78680203045685,
+        "gpt-4o-audio-preview": 92.89340101522842,
+        "gpt-4o-mini-audio-preview": 95.43147208121827
+      }
+    },
+    {
+      "sample_id": "09_research_note",
+      "duration_seconds": 59.2,
+      "word_count": 185,
+      "speaking_rate_wpm": 187.5,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 93.51351351351352,
+        "gpt-4o-audio-preview": 96.75675675675676,
+        "gpt-4o-mini-audio-preview": 2.1621621621621623
+      }
+    },
+    {
+      "sample_id": "10_project_update",
+      "duration_seconds": 66.0,
+      "word_count": 206,
+      "speaking_rate_wpm": 187.27272727272725,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 92.23300970873787,
+        "gpt-4o-audio-preview": 96.60194174757282,
+        "gpt-4o-mini-audio-preview": 93.68932038834951
+      }
+    },
+    {
+      "sample_id": "11_ai_prompt_creation",
+      "duration_seconds": 63.1,
+      "word_count": 176,
+      "speaking_rate_wpm": 167.35340729001584,
+      "rate_category": "fast",
+      "model_accuracies": {
+        "whisper-1": 98.29545454545455,
+        "gpt-4o-audio-preview": 93.18181818181819,
+        "gpt-4o-mini-audio-preview": -29.54545454545454
+      }
+    },
+    {
+      "sample_id": "12_agent_instructions",
+      "duration_seconds": 58.6,
+      "word_count": 103,
+      "speaking_rate_wpm": 105.46075085324232,
+      "rate_category": "slow",
+      "model_accuracies": {
+        "whisper-1": 93.20388349514563,
+        "gpt-4o-audio-preview": 99.02912621359224,
+        "gpt-4o-mini-audio-preview": 3.8834951456310662
+      }
+    },
+    {
+      "sample_id": "13_pharmacy_pickup",
+      "duration_seconds": 59.2,
+      "word_count": 186,
+      "speaking_rate_wpm": 188.51351351351352,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 84.94623655913979,
+        "gpt-4o-audio-preview": 96.7741935483871,
+        "gpt-4o-mini-audio-preview": 95.16129032258065
+      }
+    },
+    {
+      "sample_id": "14_household_chores",
+      "duration_seconds": 55.9,
+      "word_count": 199,
+      "speaking_rate_wpm": 213.59570661896242,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 96.98492462311557,
+        "gpt-4o-audio-preview": 98.49246231155779,
+        "gpt-4o-mini-audio-preview": 93.46733668341709
+      }
+    },
+    {
+      "sample_id": "15_grocery_shopping",
+      "duration_seconds": 57.5,
+      "word_count": 210,
+      "speaking_rate_wpm": 219.1304347826087,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 97.14285714285714,
+        "gpt-4o-audio-preview": 95.71428571428572,
+        "gpt-4o-mini-audio-preview": 95.23809523809523
+      }
+    },
+    {
+      "sample_id": "16_general_ai_prompt",
+      "duration_seconds": 49.8,
+      "word_count": 171,
+      "speaking_rate_wpm": 206.02409638554218,
+      "rate_category": "very_fast",
+      "model_accuracies": {
+        "whisper-1": 94.73684210526316,
+        "gpt-4o-audio-preview": -389.4736842105263,
+        "gpt-4o-mini-audio-preview": -103.50877192982458
+      }
+    }
+  ],
+  "correlations": {
+    "gpt-4o-mini-audio-preview": {
+      "correlation_coefficient": 0.2024601257257673,
+      "interpretation": "weak",
+      "sample_count": 16
+    },
+    "whisper-1": {
+      "correlation_coefficient": 0.44396442194774904,
+      "interpretation": "moderate",
+      "sample_count": 16
+    },
+    "gpt-4o-audio-preview": {
+      "correlation_coefficient": -0.13795117691413275,
+      "interpretation": "weak",
+      "sample_count": 16
+    }
+  },
+  "rate_category_analysis": {
+    "very_fast": {
+      "samples": [
+        {
+          "sample_id": "01_email_dictation",
+          "duration_seconds": 46.0,
+          "word_count": 168,
+          "speaking_rate_wpm": 219.1304347826087,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 95.83333333333334,
+            "gpt-4o-audio-preview": 86.90476190476191,
+            "gpt-4o-mini-audio-preview": 80.95238095238095
+          }
+        },
+        {
+          "sample_id": "03_todo_list",
+          "duration_seconds": 58.1,
+          "word_count": 209,
+          "speaking_rate_wpm": 215.83476764199654,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 93.77990430622009,
+            "gpt-4o-audio-preview": 95.21531100478468,
+            "gpt-4o-mini-audio-preview": 93.30143540669856
+          }
+        },
+        {
+          "sample_id": "04_meeting_notes",
+          "duration_seconds": 62.9,
+          "word_count": 220,
+          "speaking_rate_wpm": 209.8569157392687,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 93.18181818181819,
+            "gpt-4o-audio-preview": 94.54545454545455,
+            "gpt-4o-mini-audio-preview": 91.36363636363636
+          }
+        },
+        {
+          "sample_id": "05_parenting_question",
+          "duration_seconds": 56.5,
+          "word_count": 187,
+          "speaking_rate_wpm": 198.58407079646017,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 93.58288770053476,
+            "gpt-4o-audio-preview": 96.2566844919786,
+            "gpt-4o-mini-audio-preview": -66.84491978609626
+          }
+        },
+        {
+          "sample_id": "06_technical_troubleshooting",
+          "duration_seconds": 54.1,
+          "word_count": 194,
+          "speaking_rate_wpm": 215.15711645101663,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 96.3917525773196,
+            "gpt-4o-audio-preview": 97.9381443298969,
+            "gpt-4o-mini-audio-preview": 94.84536082474226
+          }
+        },
+        {
+          "sample_id": "07_blog_outline",
+          "duration_seconds": 67.7,
+          "word_count": 223,
+          "speaking_rate_wpm": 197.63663220088625,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 94.61883408071749,
+            "gpt-4o-audio-preview": 95.06726457399103,
+            "gpt-4o-mini-audio-preview": 91.03139013452915
+          }
+        },
+        {
+          "sample_id": "09_research_note",
+          "duration_seconds": 59.2,
+          "word_count": 185,
+          "speaking_rate_wpm": 187.5,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 93.51351351351352,
+            "gpt-4o-audio-preview": 96.75675675675676,
+            "gpt-4o-mini-audio-preview": 2.1621621621621623
+          }
+        },
+        {
+          "sample_id": "10_project_update",
+          "duration_seconds": 66.0,
+          "word_count": 206,
+          "speaking_rate_wpm": 187.27272727272725,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 92.23300970873787,
+            "gpt-4o-audio-preview": 96.60194174757282,
+            "gpt-4o-mini-audio-preview": 93.68932038834951
+          }
+        },
+        {
+          "sample_id": "13_pharmacy_pickup",
+          "duration_seconds": 59.2,
+          "word_count": 186,
+          "speaking_rate_wpm": 188.51351351351352,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 84.94623655913979,
+            "gpt-4o-audio-preview": 96.7741935483871,
+            "gpt-4o-mini-audio-preview": 95.16129032258065
+          }
+        },
+        {
+          "sample_id": "14_household_chores",
+          "duration_seconds": 55.9,
+          "word_count": 199,
+          "speaking_rate_wpm": 213.59570661896242,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 96.98492462311557,
+            "gpt-4o-audio-preview": 98.49246231155779,
+            "gpt-4o-mini-audio-preview": 93.46733668341709
+          }
+        },
+        {
+          "sample_id": "15_grocery_shopping",
+          "duration_seconds": 57.5,
+          "word_count": 210,
+          "speaking_rate_wpm": 219.1304347826087,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 97.14285714285714,
+            "gpt-4o-audio-preview": 95.71428571428572,
+            "gpt-4o-mini-audio-preview": 95.23809523809523
+          }
+        },
+        {
+          "sample_id": "16_general_ai_prompt",
+          "duration_seconds": 49.8,
+          "word_count": 171,
+          "speaking_rate_wpm": 206.02409638554218,
+          "rate_category": "very_fast",
+          "model_accuracies": {
+            "whisper-1": 94.73684210526316,
+            "gpt-4o-audio-preview": -389.4736842105263,
+            "gpt-4o-mini-audio-preview": -103.50877192982458
+          }
+        }
+      ],
+      "avg_rate": 204.8530346821326,
+      "model_performance": {
+        "gpt-4o-mini-audio-preview": {
+          "avg_accuracy": 55.071559730055924,
+          "min_accuracy": -103.50877192982458,
+          "max_accuracy": 95.23809523809523,
+          "sample_count": 12
+        },
+        "whisper-1": {
+          "avg_accuracy": 93.91215948604754,
+          "min_accuracy": 84.94623655913979,
+          "max_accuracy": 97.14285714285714,
+          "sample_count": 12
+        },
+        "gpt-4o-audio-preview": {
+          "avg_accuracy": 55.0661313932418,
+          "min_accuracy": -389.4736842105263,
+          "max_accuracy": 98.49246231155779,
+          "sample_count": 12
+        }
+      },
+      "sample_count": 12
+    },
+    "normal": {
+      "samples": [
+        {
+          "sample_id": "02_project_planning",
+          "duration_seconds": 93.4,
+          "word_count": 220,
+          "speaking_rate_wpm": 141.32762312633832,
+          "rate_category": "normal",
+          "model_accuracies": {
+            "whisper-1": 81.36363636363636,
+            "gpt-4o-audio-preview": 95.0,
+            "gpt-4o-mini-audio-preview": 88.18181818181819
+          }
+        }
+      ],
+      "avg_rate": 141.32762312633832,
+      "model_performance": {
+        "gpt-4o-mini-audio-preview": {
+          "avg_accuracy": 88.18181818181819,
+          "min_accuracy": 88.18181818181819,
+          "max_accuracy": 88.18181818181819,
+          "sample_count": 1
+        },
+        "whisper-1": {
+          "avg_accuracy": 81.36363636363636,
+          "min_accuracy": 81.36363636363636,
+          "max_accuracy": 81.36363636363636,
+          "sample_count": 1
+        },
+        "gpt-4o-audio-preview": {
+          "avg_accuracy": 95.0,
+          "min_accuracy": 95.0,
+          "max_accuracy": 95.0,
+          "sample_count": 1
+        }
+      },
+      "sample_count": 1
+    },
+    "fast": {
+      "samples": [
+        {
+          "sample_id": "08_calendar_scheduling",
+          "duration_seconds": 66.7,
+          "word_count": 197,
+          "speaking_rate_wpm": 177.21139430284856,
+          "rate_category": "fast",
+          "model_accuracies": {
+            "whisper-1": 85.78680203045685,
+            "gpt-4o-audio-preview": 92.89340101522842,
+            "gpt-4o-mini-audio-preview": 95.43147208121827
+          }
+        },
+        {
+          "sample_id": "11_ai_prompt_creation",
+          "duration_seconds": 63.1,
+          "word_count": 176,
+          "speaking_rate_wpm": 167.35340729001584,
+          "rate_category": "fast",
+          "model_accuracies": {
+            "whisper-1": 98.29545454545455,
+            "gpt-4o-audio-preview": 93.18181818181819,
+            "gpt-4o-mini-audio-preview": -29.54545454545454
+          }
+        }
+      ],
+      "avg_rate": 172.2824007964322,
+      "model_performance": {
+        "gpt-4o-mini-audio-preview": {
+          "avg_accuracy": 32.943008767881864,
+          "min_accuracy": -29.54545454545454,
+          "max_accuracy": 95.43147208121827,
+          "sample_count": 2
+        },
+        "whisper-1": {
+          "avg_accuracy": 92.0411282879557,
+          "min_accuracy": 85.78680203045685,
+          "max_accuracy": 98.29545454545455,
+          "sample_count": 2
+        },
+        "gpt-4o-audio-preview": {
+          "avg_accuracy": 93.0376095985233,
+          "min_accuracy": 92.89340101522842,
+          "max_accuracy": 93.18181818181819,
+          "sample_count": 2
+        }
+      },
+      "sample_count": 2
+    },
+    "slow": {
+      "samples": [
+        {
+          "sample_id": "12_agent_instructions",
+          "duration_seconds": 58.6,
+          "word_count": 103,
+          "speaking_rate_wpm": 105.46075085324232,
+          "rate_category": "slow",
+          "model_accuracies": {
+            "whisper-1": 93.20388349514563,
+            "gpt-4o-audio-preview": 99.02912621359224,
+            "gpt-4o-mini-audio-preview": 3.8834951456310662
+          }
+        }
+      ],
+      "avg_rate": 105.46075085324232,
+      "model_performance": {
+        "gpt-4o-mini-audio-preview": {
+          "avg_accuracy": 3.8834951456310662,
+          "min_accuracy": 3.8834951456310662,
+          "max_accuracy": 3.8834951456310662,
+          "sample_count": 1
+        },
+        "whisper-1": {
+          "avg_accuracy": 93.20388349514563,
+          "min_accuracy": 93.20388349514563,
+          "max_accuracy": 93.20388349514563,
+          "sample_count": 1
+        },
+        "gpt-4o-audio-preview": {
+          "avg_accuracy": 99.02912621359224,
+          "min_accuracy": 99.02912621359224,
+          "max_accuracy": 99.02912621359224,
+          "sample_count": 1
+        }
+      },
+      "sample_count": 1
+    }
+  }
+}

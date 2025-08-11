@@ -1,0 +1,136 @@
+{
+  "model": "gpt-4o-audio-preview",
+  "vendor": "openai",
+  "transcriptions": {
+    "01_email_dictation_raw": {
+      "sample_id": "01_email_dictation",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/01_email_dictation.txt",
+      "processing_time_seconds": 11.266247749328613,
+      "word_count": 147,
+      "transcribed_at": "2025-08-11T15:44:02.629195"
+    },
+    "02_project_planning_raw": {
+      "sample_id": "02_project_planning",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/02_project_planning.txt",
+      "processing_time_seconds": 23.554604291915894,
+      "word_count": 218,
+      "transcribed_at": "2025-08-11T15:44:58.796640"
+    },
+    "03_todo_list_raw": {
+      "sample_id": "03_todo_list",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/03_todo_list.txt",
+      "processing_time_seconds": 14.5232675075531,
+      "word_count": 208,
+      "transcribed_at": "2025-08-11T15:45:47.290655"
+    },
+    "04_meeting_notes_raw": {
+      "sample_id": "04_meeting_notes",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/04_meeting_notes.txt",
+      "processing_time_seconds": 16.235960721969604,
+      "word_count": 219,
+      "transcribed_at": "2025-08-11T15:46:34.132511"
+    },
+    "05_parenting_question_raw": {
+      "sample_id": "05_parenting_question",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/05_parenting_question.txt",
+      "processing_time_seconds": 13.791203737258911,
+      "word_count": 187,
+      "transcribed_at": "2025-08-11T15:47:17.377202"
+    },
+    "06_technical_troubleshooting_raw": {
+      "sample_id": "06_technical_troubleshooting",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/06_technical_troubleshooting.txt",
+      "processing_time_seconds": 14.399762153625488,
+      "word_count": 193,
+      "transcribed_at": "2025-08-11T15:48:00.045561"
+    },
+    "07_blog_outline_raw": {
+      "sample_id": "07_blog_outline",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/07_blog_outline.txt",
+      "processing_time_seconds": 15.916506290435791,
+      "word_count": 221,
+      "transcribed_at": "2025-08-11T15:48:45.065953"
+    },
+    "08_calendar_scheduling_raw": {
+      "sample_id": "08_calendar_scheduling",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/08_calendar_scheduling.txt",
+      "processing_time_seconds": 16.63432216644287,
+      "word_count": 196,
+      "transcribed_at": "2025-08-11T15:49:35.725623"
+    },
+    "09_research_note_raw": {
+      "sample_id": "09_research_note",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/09_research_note.txt",
+      "processing_time_seconds": 14.744884252548218,
+      "word_count": 186,
+      "transcribed_at": "2025-08-11T15:50:22.171874"
+    },
+    "10_project_update_raw": {
+      "sample_id": "10_project_update",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/10_project_update.txt",
+      "processing_time_seconds": 16.316400051116943,
+      "word_count": 205,
+      "transcribed_at": "2025-08-11T15:51:07.110773"
+    },
+    "11_ai_prompt_creation_raw": {
+      "sample_id": "11_ai_prompt_creation",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/11_ai_prompt_creation.txt",
+      "processing_time_seconds": 34.29110026359558,
+      "word_count": 183,
+      "transcribed_at": "2025-08-11T15:52:12.745112"
+    },
+    "12_agent_instructions_raw": {
+      "sample_id": "12_agent_instructions",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/12_agent_instructions.txt",
+      "processing_time_seconds": 12.858507633209229,
+      "word_count": 104,
+      "transcribed_at": "2025-08-11T15:52:53.419322"
+    },
+    "13_pharmacy_pickup_raw": {
+      "sample_id": "13_pharmacy_pickup",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/13_pharmacy_pickup.txt",
+      "processing_time_seconds": 14.388880014419556,
+      "word_count": 186,
+      "transcribed_at": "2025-08-11T15:53:36.829560"
+    },
+    "14_household_chores_raw": {
+      "sample_id": "14_household_chores",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/14_household_chores.txt",
+      "processing_time_seconds": 14.323378801345825,
+      "word_count": 199,
+      "transcribed_at": "2025-08-11T15:54:21.640336"
+    },
+    "15_grocery_shopping_raw": {
+      "sample_id": "15_grocery_shopping",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/15_grocery_shopping.txt",
+      "processing_time_seconds": 15.478289604187012,
+      "word_count": 210,
+      "transcribed_at": "2025-08-11T15:55:05.843467"
+    },
+    "16_general_ai_prompt_raw": {
+      "sample_id": "16_general_ai_prompt",
+      "audio_type": "raw",
+      "transcription_file": "openai/gpt-4o-audio-preview/raw/16_general_ai_prompt.txt",
+      "processing_time_seconds": 20.40689992904663,
+      "word_count": 756,
+      "transcribed_at": "2025-08-11T15:55:54.003355"
+    }
+  },
+  "created_at": "2025-08-11T15:44:02.629100",
+  "last_updated": "2025-08-11T15:55:54.003377"
+}
