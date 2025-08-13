@@ -1,0 +1,5 @@
+The important question for voice note fanatics is how well does a voice note transcription service transcribe when you speak in the shower? Because, you know, who doesn't take voice notes in the shower these days? Are you really a productivity enthusiast if you're not actively brainstorming? I mean, you couldn't just be showering. That would be pretty bad. I hope no one is doing that.  
+  
+So I thought I would add this wonderful voice note to my evaluation data sets between the various providers. In fact, I want to add a few where I am in more challenging audio conditions, namely out and about with our delightful child screaming in the background. That training data should not be too hard to gather. And then I can really evaluate how the various models do.  
+  
+What we've learned so far is that the OpenAI Whisper, what I've found so far is that it suggests that the new OpenAI model may not be as good as Whisper, which would be really interesting if I can validate that with a larger sample size. But this is a fun little project because I really want to know which is the best model to use as I do this a lot.
